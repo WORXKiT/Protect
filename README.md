@@ -20,6 +20,6 @@ Setup termux
 - Ketik -> `pip2 install gtts`
 - Ketik -> `pip2 install beautifulsoup`
 - Ketik -> `pip2 install googletrans`
-- Ketik -> `git clone https://github.com/Gendjex/vb2`
+- Ketik -> `git clone https://github.com/FewTeamBot/Protect`
 - Ketik -> `cd vb2`
 - Ketik -> `python2 vb2.py`
